@@ -1,0 +1,2 @@
+module Txtboss::UserHelper
+end
